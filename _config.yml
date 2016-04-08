@@ -1,0 +1,28 @@
+name: SaveSolar
+favicon: null
+layout_spectrum: 0.5808908648323268
+typography_spectrum: 0.4493235300760716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2245690505951643
+  lightness: 0.005302512785419822
+  saturation: 0.5270265843719244
+  rhythmicContrast: 0.23183104931376874
+purpose: []

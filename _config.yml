@@ -1,7 +1,7 @@
 name: SaveSolar
 favicon: null
-layout_spectrum: 0.5808908648323268
-typography_spectrum: 0.4493235300760716
+layout_spectrum: 0.90853
+typography_spectrum: 0.86412
 cta:
   domain: null
   bucket: null
